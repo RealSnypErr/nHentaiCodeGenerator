@@ -26,3 +26,5 @@ make sure tags are separated with a comma and a new line
 blacklisted tags sometimes go through
 
 google will rate limit you with the captcha check (use a vpn)
+
+the program crashes sometimes (happens when the rng sets a number higher than nhentai's latest code)

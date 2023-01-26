@@ -3,6 +3,8 @@ find the next thing to beat your meat to with this simple trick (doctors hate hi
 
 # how install?
 
+download using green button named code (download as zip then extract)
+
 make sure you have python installed (check install to path when installing)
 
 if you dont have it yet open cmd and type in 
